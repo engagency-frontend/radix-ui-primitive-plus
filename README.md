@@ -2,7 +2,7 @@
   <img alt="Radix UI hero image" src="https://repository-images.githubusercontent.com/316012819/b7b19180-3f85-11eb-884c-1e19ce2f493a">
 </a>
 
-# Radix Primitives
+# Radix Primitives Plus
 
 **An open-source UI component library for building high-quality, accessible design systems and web apps.**
 
